@@ -1,0 +1,16 @@
+.nav-container{
+    border: none;
+    background-color: rgb(255, 255, 255);
+    -moz-box-shadow: 0 0 20px #ccc;
+    -webkit-box-shadow: 0 0 20px #ccc;
+    box-shadow: 0 0 20px #ccc;
+}
+
+/* .active{
+    color: red;
+} */
+
+.nav-title{
+    font-size: 25px;
+    margin-right: 20px;
+}

@@ -1,0 +1,17 @@
+.htmlForm-label{
+    margin-top: 12px;
+    font-style: inherit;
+}
+
+.form-row{
+    margin-top: 20px;
+}
+
+.main-form
+{
+    border: 1px solid rgba(3, 102, 214, 0.3);
+    border-radius: 10px;
+    -moz-box-shadow: 0 0 10px #ccc;
+    -webkit-box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 0 10px #ccc;
+}

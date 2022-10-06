@@ -1,0 +1,14 @@
+.body
+{
+    padding: 20px;
+}
+
+.search-result{
+    
+    background-color: whitesmoke;
+    position: absolute;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+

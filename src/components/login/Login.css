@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.form-row{
+    margin-top: 10vh;
+}
+.errormsg{
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}
+
+.header{
+    font-size: 30px;
+}
+
+.body{
+   
+    font-family: montserrat;
+    height: 100vh; 
+    overflow: hidden;
+  
+    
+}
+
+
+
+.main-form
+{
+    margin-top: 50px;
+    
+    padding: 20px;
+    border: 1px solid rgb(180, 180, 180);
+    border-radius: 10px;
+    -moz-box-shadow: 0 0 20px #ccc;
+    -webkit-box-shadow: 0 0 20px #ccc;
+    box-shadow: 0 0 20px #ccc;
+}
